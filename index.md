@@ -11,15 +11,18 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 
 ### Mailing list
 
-Additional announcements related to the course, as well as answers to the students' questions
-will be posted on the [mailing list](https://groups.google.com/forum/#!forum/fos2020) so remember to check it frequently.
+You *must join* the [course mailing list](https://groups.google.com/u/0/g/fos2020epfl) if you're attending the course. Additional announcements related to the
+course, as well as answers to the students' questions will be posted on the -
+remember to check it frequently! You can also use the list to ask any questions
+you might have.
 
-Our mailing list is hosted at [https://groups.google.com/forum/#!forum/fos2020](https://groups.google.com/forum/#!forum/fos2020),
-and you *must join* it if you're attending the course - all announcements, questions and answers
-will be posted there.
+The mailing list is only available to registered members. In order to join the
+mailing list, open the google group and click 'Apply for membership'.
 
-The mailing list is only available to registered members. In order to join the mailing list,
-open the google group and click 'Apply for membership'.
+This year, we will be using a [Discord chat](https://discord.gg/HWs96Hp) for the
+online part of exercises. You can use it during exercise hours to ask questions
+and have quick voice/video calls with the TAs. If you have a question outside
+exercise hours, it's better to use the mailing list instead.
 
 ### Team Registration
 
@@ -34,6 +37,8 @@ Please fill in the form below before __September 27, Sunday__:
 
 The Foundations of Software course at EPFL is taught on *Tue 14:15-16:00, INM 10*.
 Exercise sessions take place on *Wed 11:15-13:00, CO 020*.
+
+The schedule below is, to a small extent, still provisional.
 
 |-------------|-----------------------------------------------------------------------------|
 | Tue, 15 Sep | Lecture on *Introduction and Combinator Parsers*                            |
@@ -53,6 +58,7 @@ Exercise sessions take place on *Wed 11:15-13:00, CO 020*.
 | Tue, 3 Nov  | Lecture on *Recursion and State with STLC*                                  |
 | Wed, 4 Nov  | Exercise session on *simply typed lambda calculus with extensinos*          |
 | Tue, 10 Nov | Lecture on *Type Reconstruction and Polymorphism*                           |
+| Wed, 11 Nov | TBA                                                                         |
 | Tue, 17 Nov | Lecture on *Subtyping*                                                      |
 | Wed, 18 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction* |
 | Tue, 24 Nov | Lecture on *Objects*                                                        |
@@ -69,7 +75,7 @@ Lecture notes and pen & paper session exercises are available in [documents sect
 
 ### Grading
 
-Each enrolled student will receive a grade based on their results for the projects, the midterm exam and the final exam. The relative importance of each part is: 30% for projects, 30% for the midterm and 40% for the final.
+Each enrolled student will receive a grade based on their results for the projects, the midterm exam and the final exam. The relative importance of each part is: 40% for projects and 60% for the final.
 
 ### Cheating
 
