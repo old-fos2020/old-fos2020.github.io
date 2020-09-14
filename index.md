@@ -12,7 +12,7 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 ### Mailing list
 
 You *must join* the [course mailing list](https://groups.google.com/u/0/g/fos2020epfl) if you're attending the course. Additional announcements related to the
-course, as well as answers to the students' questions will be posted on the -
+course, as well as answers to the students' questions will be posted there -
 remember to check it frequently! You can also use the list to ask any questions
 you might have.
 
@@ -75,7 +75,9 @@ Lecture notes and pen & paper session exercises are available in [documents sect
 
 ### Grading
 
-Each enrolled student will receive a grade based on their results for the projects, the midterm exam and the final exam. The relative importance of each part is: 40% for projects and 60% for the final.
+Each enrolled student will receive a grade based on their results for the
+projects and the final exam. The relative importance of each part is: 40% for
+projects and 60% for the final.
 
 ### Cheating
 
