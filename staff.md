@@ -1,7 +1,7 @@
 ---
 title: Staff
 layout: default
-start: 14 Sep 2019, 00:00 (Europe/Zurich)
+start: 14 Sep 2020, 00:00 (Europe/Zurich)
 index: 0
 ---
 

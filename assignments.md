@@ -1,7 +1,7 @@
 ---
 title: Assignments
 layout: default
-start: 14 Sep 2019, 00:00 (Europe/Zurich)
+start: 14 Sep 2020, 00:00 (Europe/Zurich)
 index: 3
 ---
 
@@ -66,9 +66,9 @@ If you miss a deadline, you can still submit your project, however your grade wi
 
 ### Feedback on submissions
 
-If you need more detailed feedback on your submission, please send an
-email to Fengyun or Lionel to reserve an office slot, so that we may
-study your code together.
+If you need more detailed feedback on your submission, please send an email to
+one of the assistants to reserve an office slot, so that we may study your code
+together.
 
 ### FAQ
 
