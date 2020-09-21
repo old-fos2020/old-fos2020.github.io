@@ -46,9 +46,11 @@ as long as your project passes our tests.
 
 ### Submitting your solutions
 
+1. Register your team, if you haven't done so already. Note that the teams are updated manually, so if you just registered, the bot should be updated the next (more-or-less) morning.
+
 1. Zip your project directory, making sure that you haven't created or removed any files from the provided template for the corresponding project. For instance, if the template contained files Arithmetic.scala and Terms.scala in /src/main/scala/fos, don't move these files around or create additional helper files.
 
-1. Send the archive produced during the previous step to the email address specified in the welcome message of the mailing list.
+1. Send the archive produced during the previous step to grading bot's email address: [fos.bot.2020@gmail.com](mailto:fos.bot.2020@gmail.com)
   * The subject of the email should be "Project X (YYYYYY, ZZZZZZ, ...)", where X is the number of the project, and YYYYYY/ZZZZZZ/... are SCIPER numbers of the authors.
   * The body of the email doesn't matter, because our grading bot can't read.
   * Don't forget the attachment.
