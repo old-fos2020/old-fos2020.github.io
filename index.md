@@ -28,7 +28,9 @@ exercise hours, it's better to use the mailing list instead.
 
 We encourage you to team up when working on assignments. Teams can consist of one, two or three students and should not intersect with each other. It is okay to share ideas between teams, but sharing code is prohibited.
 
+<!--
 Please fill in the form below before __September 27, Sunday__:
+-->
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfb4YzmDQO976z02YB3sv1STWTIOCpi3WRFISlyjcw03-feMg/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
