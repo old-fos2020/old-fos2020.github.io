@@ -7,7 +7,7 @@ index: 6
 
 # Project 3: Simply Typed Lambda Calculus
 
-**Hand in:** 29 Oct 2020, 23:59 (Europe/Zurich)
+**Hand in:** 03 Nov 2020, 23:59 (Europe/Zurich)
 
 **Project template:** [3-typed.zip](projects/3-typed.zip)
 
