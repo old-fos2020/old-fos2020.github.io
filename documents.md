@@ -143,6 +143,12 @@ or by [4](slides/week15-2x2.pdf).
   
 
 
+## Pen & Paper
+
+### Pen & Paper #1
+
+Download [exercises](slides/penpaper-midterm-1.pdf).
+
 <!--
 ### Foundations of Scala
 
