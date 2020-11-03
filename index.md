@@ -52,11 +52,11 @@ The schedule below is, to a small extent, still provisional.
 | Tue, 6 Oct  | Lecture on *The Untyped Lambda Calculus (2)*                                |
 | Wed, 7 Oct  | Exercise session on *untyped lambda calculus*                               |
 | Tue, 13 Oct | Lecture on *The Simply Typed Lambda Calculus*                               |
-| Wed, 14 Oct | Pen & paper exercise session #1                                             |
+| Wed, 14 Oct | Exercise session on *simply typed lambda calculus*                          |
 | Tue, 20 Oct | Lecture on *STLC & Simple Extensions to STLC*                               |
 | Wed, 21 Oct | Exercise session on *simply typed lambda calculus*                          |
 | Tue, 27 Oct | Lecture on *More Extensions to STLC*                                        |
-| Wed, 28 Oct | Pen & paper exercise session #2                                             |
+| Wed, 28 Oct | Pen & paper exercise session #1                                             |
 | Tue, 3 Nov  | Lecture on *Recursion and State with STLC*                                  |
 | Wed, 4 Nov  | Exercise session on *simply typed lambda calculus with extensinos*          |
 | Tue, 10 Nov | Lecture on *Type Reconstruction and Polymorphism*                           |
@@ -64,13 +64,13 @@ The schedule below is, to a small extent, still provisional.
 | Tue, 17 Nov | Lecture on *Subtyping*                                                      |
 | Wed, 18 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction* |
 | Tue, 24 Nov | Lecture on *Objects*                                                        |
-| Wed, 25 Nov | Pen & paper exercise session #3                                             |
+| Wed, 25 Nov | Pen & paper exercise session #2                                             |
 | Tue, 1 Dec  | Lecture on *Featherweight Java*                                             |
 | Wed, 2 Dec  | Exercise session on *simply typed lambda calculus with Type Reconstruction* |
 | Tue, 8 Dec  | Lecture on *Foundations of Scala*                                           |
-| Wed, 9 Dec  | Pen & paper exercise session #4                                             |
+| Wed, 9 Dec  | Pen & paper exercise session #3                                             |
 | Tue, 15 Dec | Lecture on  *Foundations of Scala (cont.)*                                  |
-| Wed, 16 Dec | Pen & paper exercise session #5                                             |
+| Wed, 16 Dec | Pen & paper exercise session #4                                             |
 | TBD         | Final                                                                       |
 
 Lecture notes and pen & paper session exercises are available in [documents section](/documents.html).
