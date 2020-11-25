@@ -150,6 +150,16 @@ or by [4](slides/week15-2x2.pdf).
 Download [exercises](slides/penpaper-midterm-1.pdf)
 and [solutions](slides/penpaper-midterm-1-sol.pdf).
 
+### Pen & Paper #2
+
+Download [first](slides/penpaper-midterm-2.pdf)
+and [second](slides/midterm2019.pdf)
+exercise sheet.
+
+<!--
+and [solutions](slides/penpaper-midterm-1-sol.pdf).
+-->
+
 <!--
 ### Foundations of Scala
 
