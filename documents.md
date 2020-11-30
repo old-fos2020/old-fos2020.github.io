@@ -156,9 +156,9 @@ Download [first](slides/penpaper-midterm-2.pdf)
 and [second](slides/midterm2019.pdf)
 exercise sheet.
 
-<!--
-and [solutions](slides/penpaper-midterm-1-sol.pdf).
--->
+Download [first](slides/penpaper-midterm-2-sol.pdf)
+and [second](slides/midterm2019-sol.pdf)
+solution sheet.
 
 <!--
 ### Foundations of Scala
