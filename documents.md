@@ -160,6 +160,10 @@ Download [first](slides/penpaper-midterm-2-sol.pdf)
 and [second](slides/midterm2019-sol.pdf)
 solution sheet.
 
+### Pen & Paper #3
+
+Download [exercises](slides/penpaper-final-2.pdf).
+
 <!--
 ### Foundations of Scala
 
