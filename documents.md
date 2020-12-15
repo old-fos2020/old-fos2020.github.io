@@ -143,6 +143,14 @@ or by [4](slides/week15-2x2.pdf).
   
 
 
+### Foundations of Scala
+
+Download for [screen](slides/week13.pdf).
+
+### Foundations of Scala (contd.)
+
+Download for [screen](slides/week14.pdf).
+
 ## Pen & Paper
 
 ### Pen & Paper #1
@@ -162,16 +170,10 @@ solution sheet.
 
 ### Pen & Paper #3
 
-Download [exercises](slides/penpaper-final-2.pdf).
+Download [exercises](slides/penpaper-final-2.pdf)
+and [solutions](slides/penpaper-final-2-sol.pdf).
 
 <!--
-### Foundations of Scala
-
-Download for [screen](slides/week13.pdf).
-
-### Foundations of Scala (contd.)
-
-Download for [screen](slides/week14.pdf).
 
 ## Pen & Paper #1
 
