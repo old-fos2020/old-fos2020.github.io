@@ -173,6 +173,10 @@ solution sheet.
 Download [exercises](slides/penpaper-final-2.pdf)
 and [solutions](slides/penpaper-final-2-sol.pdf).
 
+### Pen & Paper #4
+
+Download [exercises](slides/penpaper-final-1.pdf).
+
 <!--
 
 ## Pen & Paper #1
