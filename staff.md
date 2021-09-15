@@ -1,7 +1,7 @@
 ---
 title: Staff
 layout: default
-start: 14 Sep 2020, 00:00 (Europe/Zurich)
+start: 01 Sep 2020, 00:00 (Europe/Zurich)
 index: 0
 ---
 
@@ -23,9 +23,9 @@ INR 320<br/>
 
 
 
-Lucas Ramirez<br/>
+Charly Castes<br/>
 <br/>
-<lucas.ramirez@epfl.ch><br/>
+<charly.castes@epfl.ch><br/>
 <!-- *Office hours*: <br/>
 *Responsibilities*: <br/> -->
 

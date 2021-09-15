@@ -1,13 +1,13 @@
 ---
 title: Project 3 - Simply Typed Lambda Calculus
 layout: default
-start: 21 Oct 2020, 00:00 (Europe/Zurich)
+start: 27 Oct 2020, 00:00 (Europe/Zurich)
 index: 6
 ---
 
 # Project 3: Simply Typed Lambda Calculus
 
-**Hand in:** 04 Nov 2020, 23:59 (Europe/Zurich)
+**Hand in:** 09 Nov 2020, 23:59 (Europe/Zurich)
 
 **Project template:** [3-typed.zip](projects/3-typed.zip)
 

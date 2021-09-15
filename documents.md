@@ -1,7 +1,7 @@
 ---
 title: Documents
 layout: default
-start: 14 Sep 2020, 00:00 (Europe/Zurich)
+start: 01 Sep 2020, 00:00 (Europe/Zurich)
 index: 2
 ---
 
@@ -143,6 +143,7 @@ or by [4](slides/week15-2x2.pdf).
   
 
 
+<!--
 ### Foundations of Scala
 
 Download for [screen](slides/week13.pdf).
@@ -175,32 +176,6 @@ and [solutions](slides/penpaper-final-2-sol.pdf).
 
 ### Pen & Paper #4
 
-Download [exercises](slides/penpaper-final-1.pdf).
-
-<!--
-
-## Pen & Paper #1
-
-Download [exercises](slides/penpaper-midterm-1.pdf)
-and [solutions](slides/penpaper-midterm-1-sol.pdf).
-
-## Pen & Paper #2
-
-Download [exercises](slides/penpaper-midterm-2.pdf)
-and [solutions](slides/penpaper-midterm-2-sol.pdf).
-
-## Pen & Paper #3
-
-Download [exercises](slides/midterm2019.pdf) for midterm
-and [solutions](slides/midterm2019-sol.pdf).
-
-## Pen & Paper #4
-
 Download [exercises](slides/penpaper-final-1.pdf)
 and [solutions](slides/penpaper-final-1-sol.pdf).
-
-## Pen & Paper #5
-
-Download [exercises](slides/penpaper-final-2.pdf)
-and [solutions](slides/penpaper-final-2-sol.pdf).
 -->

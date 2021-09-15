@@ -1,7 +1,7 @@
 ---
 title: Assignments
 layout: default
-start: 14 Sep 2020, 00:00 (Europe/Zurich)
+start: 01 Sep 2020, 00:00 (Europe/Zurich)
 index: 3
 ---
 
@@ -54,7 +54,7 @@ as long as your project passes our tests.
   * you haven't created or removed any files from the provided template for the corresponding project. For instance, if the template contained files Arithmetic.scala and Terms.scala in /src/main/scala/fos, don't move these files around or create additional helper files.
   * you don't zip the `target` directory, which contains binary files that might trip Google's anti-virus.
 
-1. Send the archive produced during the previous step to grading bot's email address: [fos.bot.2020@gmail.com](mailto:fos.bot.2020@gmail.com)
+1. Send the archive produced during the previous step to grading bot's email address: [lamp.fos.bot@gmail.com](mailto:lamp.fos.bot@gmail.com)
   * The subject of the email should be "Project X (YYYYYY, ZZZZZZ, ...)", where X is the number of the project, and YYYYYY/ZZZZZZ/... are SCIPER numbers of the authors.
   * The body of the email doesn't matter, because our grading bot can't read.
   * Don't forget the attachment.

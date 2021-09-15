@@ -1,13 +1,13 @@
 ---
 title: Project 2 - Untyped Lambda Calculus
 layout: default
-start: 07 Oct 2020, 00:00 (Europe/Zurich)
+start: 13 Oct 2020, 00:00 (Europe/Zurich)
 index: 5
 ---
 
 # Project 2: Untyped Lambda Calculus
 
-**Hand in:** 20 Oct 2020, 23:59 (Europe/Zurich)
+**Hand in:** 26 Oct 2020, 23:59 (Europe/Zurich)
 
 **Project template:** [2-untyped.zip](projects/2-untyped.zip)
 
